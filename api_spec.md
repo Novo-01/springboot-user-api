@@ -26,7 +26,7 @@
   "password": "password123"
 }
 
-・レスポンス例（201 Created）：
+- レスポンス例（201 Created）：
 {
   "id": 1,
   "name": "test user",
