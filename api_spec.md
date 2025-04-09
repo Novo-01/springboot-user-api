@@ -25,8 +25,11 @@
   "email": "test@example.com",
   "password": "password123"
 }
+```
 
 - レスポンス例（201 Created）：
+  
+```json
 {
   "id": 1,
   "name": "test user",
